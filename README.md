@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on The design and reality of the page visualization platform
 - 📫 How to reach me: ntscshen@163.com
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,nestjs,typeorm,prisma,mysql,redis,vscode,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,nestjs,prisma,mysql,redis,vscode,jquery)](https://skillicons.dev)
 
