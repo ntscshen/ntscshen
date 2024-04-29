@@ -4,9 +4,5 @@
 - 🔭 I’m currently working on The design and reality of the page visualization platform
 - 📫 How to reach me: ntscshen@163.com
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,nestjs,prisma,redis,vscode,jQuery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,nestjs,typeorm,prisma,mysql,redis,vscode,jquery)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/languages.svg#gh-light-mode-only)
