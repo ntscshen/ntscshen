@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,tailwind,nestjs,prisma,redis,vscode,jQuery)](https://skillicons.dev)
 
-![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kuizuo/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/ntscshen/github-stats/master/generated/languages.svg#gh-light-mode-only)
