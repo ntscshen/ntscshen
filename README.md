@@ -1,6 +1,6 @@
 ### Hi 👋, I'm shen
 
-- 👯 TS full-stack developer and freelancer from ChinaI’m transitioning to full-stack engineer & remote developer
+- 👯 TS full-stack developer and freelancer from China
 - 🔭 I’m currently working on The design and reality of the page visualization platform
 - 📫 How to reach me: ntscshen@163.com
 
